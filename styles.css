@@ -9,6 +9,14 @@ h1{
 #tribute-info p{
   text-align: center;
 }
+figure{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+figcaption{
+  margin: 10px;
+}
 #tribute-info{
   border-radius: 5px;
   padding: 5px;
